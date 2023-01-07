@@ -1,0 +1,3 @@
+token_bot: ***
+qiwi_public_key: ***
+qiwi_secret_key: ***

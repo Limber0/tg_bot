@@ -1,0 +1,47 @@
+2022-12-26 18:23:32,278 DEBUG - The user used the '/start' command, user_id = 499752941
+2022-12-26 18:23:35,931 DEBUG - The user clicked on the button, user_id = 499752941, button = call_replenish_balance
+2022-12-26 18:23:39,083 INFO - Payment created, user_id = 499752941, check_id = WhiteApfel-PyQiwiP2P-06821882-364, money = 123, url = https://oplata.qiwi.com/form/?invoice_uid=fe16b07b-2f1d-4981-a7f4-90a0e32c0c9b
+2022-12-26 18:23:40,423 DEBUG - Checking payment status, user_id = 499752941
+2022-12-26 18:23:40,481 DEBUG - Waiting for payment user_id = 499752941, check_id = WhiteApfel-PyQiwiP2P-06821882-364
+2022-12-26 18:23:46,407 DEBUG - Checking payment status, user_id = 499752941
+2022-12-26 18:23:46,528 DEBUG - Waiting for payment user_id = 499752941, check_id = WhiteApfel-PyQiwiP2P-06821882-364
+2022-12-26 18:24:39,849 DEBUG - The amin used the '/admin' command, user_id = 499752941
+2022-12-26 18:24:46,949 DEBUG - The user clicked on the button, user_id = 499752941, button = call_users_list
+2022-12-26 18:24:48,799 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:24:49,683 DEBUG - The user clicked on the button, user_id = 499752941, button = call_banned
+2022-12-26 18:25:03,392 INFO - User has been blocked, user_id = 4, admin_id = 499752941
+2022-12-26 18:25:06,378 DEBUG - The amin used the '/admin' command, user_id = 499752941
+2022-12-26 18:25:07,488 DEBUG - The user clicked on the button, user_id = 499752941, button = call_change_balance
+2022-12-26 18:25:13,313 INFO - The user's balance has been changed by the administrator, user_id = 4, admin_id = 499752941, balance = 10
+2022-12-26 18:25:18,410 DEBUG - The user clicked on the button, user_id = 499752941, button = call_banned
+2022-12-26 18:25:19,233 INFO - User has been blocked, user_id = 4, admin_id = 499752941
+2022-12-26 18:25:23,053 DEBUG - The user clicked on the button, user_id = 499752941, button = call_users_list
+2022-12-26 18:25:25,888 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:35:45,902 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:38:07,821 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:38:39,456 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:39:30,420 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:39:48,118 DEBUG - The amin used the '/admin' command, user_id = 499752941
+2022-12-26 18:39:49,375 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:40:08,036 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:40:43,293 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:41:07,553 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:52:07,617 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:52:30,637 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:53:27,674 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:53:58,562 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:54:40,630 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:55:37,751 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:56:10,012 DEBUG - The amin used the '/admin' command, user_id = 499752941
+2022-12-26 18:56:11,071 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 18:56:37,847 DEBUG - The amin used the '/admin' command, user_id = 499752941
+2022-12-26 18:56:39,058 DEBUG - The user clicked on the button, user_id = 499752941, button = call_logs
+2022-12-26 20:59:05,175 DEBUG - The amin used the '/admin' command, user_id = 499752941
+2022-12-26 20:59:15,119 DEBUG - The user used the '/start' command, user_id = 885005749
+2022-12-26 20:59:15,119 INFO - User added to database user_id = 885005749
+2022-12-26 20:59:21,835 DEBUG - The user clicked on the button, user_id = 885005749, button = call_replenish_balance
+2022-12-26 20:59:27,822 INFO - Payment created, user_id = 885005749, check_id = WhiteApfel-PyQiwiP2P-07756756-252, money = 1500, url = https://oplata.qiwi.com/form/?invoice_uid=b023de93-fb3e-4dba-be8c-c968164d56c2
+2022-12-26 20:59:32,367 DEBUG - Checking payment status, user_id = 885005749
+2022-12-26 20:59:32,439 DEBUG - Waiting for payment user_id = 885005749, check_id = WhiteApfel-PyQiwiP2P-07756756-252
+2022-12-26 20:59:35,630 DEBUG - Checking payment status, user_id = 885005749
+2022-12-26 20:59:35,690 DEBUG - Waiting for payment user_id = 885005749, check_id = WhiteApfel-PyQiwiP2P-07756756-252
